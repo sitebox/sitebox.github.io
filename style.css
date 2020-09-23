@@ -1,7 +1,13 @@
 .dou{
 color:blue;
+font-weight: 700;
 }
+.cx{
+color:red;
+font-weight: 700;
+}
+
 #footer{
 	text-align: center;
-	
+
 }
