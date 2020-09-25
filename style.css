@@ -61,7 +61,7 @@ float: right;
 }
 #footer{
 height: 80px;
-background: #414141;
+background-color:rgba(22,22,22,0.9) ;
 }
 .copyright{
     text-align: center;
