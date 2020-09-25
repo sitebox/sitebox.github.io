@@ -28,10 +28,10 @@ h1{
     margin: 0;
     padding: 0;
     line-height: 80px;
-    font-size: 65px;
+    font-size: 30px;
     text-align: center;
-    text-shadow:3px 4px 2px pink;
-    color: blue;
+    text-shadow:2px 3px 1px #111;
+    color:red;
 }
 #wrap{
 width:1200px;
