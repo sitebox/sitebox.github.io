@@ -42,7 +42,7 @@ position: relative;
 width: 200px;
 padding:50px;
 float:left;
-background: #414141;
+background-color:rgba(22,22,22,0.9) ;
 color:white;
 position: fixed;
 text-align: left;
