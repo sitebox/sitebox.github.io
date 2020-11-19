@@ -1,0 +1,121 @@
+清空表语句：truncate table doubleletter;
+
+修改表名：alter TABLE '旧表名' rename as '新表名';
+
+
+成功导入excel转换的csv文件到mysql中
+windows:
+
+ LOAD DATA INFILE "d:/csv.csv"                   地址
+ REPLACE INTO TABLE doubleletter                 表名
+ CHARACTER SET utf8                              编码
+ FIELDS TERMINATED BY "," ENCLOSED BY ""         分段符
+ LINES TERMINATED BY "\r\n";                     结尾符
+
++++++++++++++++++++++++++++++++++参考如下+++++++++++++++++++++++++++++++++
+LOAD DATA INFILE命令可以把csv平面文件中的数据导入到数据库中。
+
+linux下：
+
+LOAD DATA INFILE '/home/test/dump/ip_location.csv'
+ INTO TABLE ip_location
+ CHARACTER SET utf8
+ FIELDS TERMINATED BY ',' ENCLOSED BY '"';
+--CHARACTER SET ：mysql字符集，一定要加上，免去乱码麻烦
+--INTO TABLE ：导入到哪个表
+--FIELDS TERMINATED BY ：以什么作为分割符
+-- ENCLOSED BY ：被什么包围
+
+windows：
+
+ LOAD DATA INFILE "d:/csv/a.csv"
+ REPLACE INTO TABLE four
+ CHARACTER SET utf8
+ FIELDS TERMINATED BY "," ENCLOSED BY ""
+ LINES TERMINATED BY "\r\n"
+
+--LINES TERMINATED BY：这个与linux不同，以什么作为一行的结尾。
+
+
+
+deadhorse.blog.chinaunix.net
+http://blog.chinaunix.net/uid-23284114-id-3196638.html
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+mysql导入CSV数据:http://blog.chinaunix.net/uid-23284114-id-3196638.html
+
+Mysql 导入导出csv 中文乱码问题的解决方法:http://www.jb51.net/article/41266.htm
+
+excel导入mysql:http://blog.csdn.net/lcdsda/article/details/3964204
+
+excel里的内容如何导入mysql数据库:http://wenwen.sogou.com/z/q617439882.htm
+
+
+================================================================================
+域名注册查询结果数据库设计：
+
+CREATE TABLE `doubleletter` (
+  `id` int(20) NOT NULL auto_increment,
+  `domain` varchar(30) NOT NULL,
+  `status` varchar(30) NOT NULL,
+  `regtime` date NOT NULL,
+  `exptime` date NOT NULL,
+  `Registrar` varchar(255) NOT NULL,
+  `registrant` varchar(255) NOT NULL,
+  `contacts` varchar(255) NOT NULL,
+  `email` varchar(255) NOT NULL,
+  `domainstatus` varchar(255) NOT NULL,
+  `dnsserver` varchar(255) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+字段说明：
+id:序号
+domain:域名
+status:注册状态
+regtime:注册日期
+exptime:过期日期
+Registrar:注册商
+registrant:注册单位
+contacts:联系人
+email:邮箱
+domainstatus域名状态
+DNSserver:DNS服务器
+
+
+================================================================================
+清空数据表的命令：
+
+truncate table tablename;
+
+================================================================================
+excel批量自动增加序号的方法：
+http://jingyan.baidu.com/article/a3aad71a86f2dab1fb009688.html
+
+添加表内某条记录：
+
+insert into tablename(id,name)values('$id','$name');
+
+修改表内某条记录：
+update tablename set id='$id',name='$name' where id='$id';
+
+删除表内某条记录：
+DELETE FROM tablename where id='$id';
+
+
+大数据库文件导出命令：
+
+D:\wamp\bin\mysql\mysql5.5.8\bin>mysqldump -u root -p domainsql >domainsql.sql
+
+domainsql是数据库名。执行命令后会要求输入密码.
+
+
+
+
+
+
+
+
+
+
+

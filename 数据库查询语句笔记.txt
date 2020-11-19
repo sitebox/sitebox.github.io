@@ -1,0 +1,31 @@
+SELECT * FROM `doubleletter` WHERE registrant='林建军'；
+
+select * from four where registrar='阿里巴巴通信技术（北京）有限公司（原万网）'
+select * from four where registrar='厦门易名科技有限公司（原厦门易名网络科技有限公司）'
+select * from four where registrar='厦门纳网科技有限公司'
+select * from four where registrar='WEST263 INTERNATIONAL LIMITED'
+select * from four where registrar=''
+select * from doubleletter where status='未注册'
+
+
+
+
+
+
+select * from four where email=''
+select * from four where domainstatus=''
+select * from four where regtime=''
+select * from four where exptime=''
+select * from four where status=''
+select * from four where domain=''
+
+select * from four where registrar=''
+
+
+
+
+
+
+
+
+

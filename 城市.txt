@@ -1,0 +1,676 @@
+aa
+ab
+ac
+ad
+ae
+af
+ag
+ah
+ai
+aj
+ak 安康
+al
+am
+an
+ao
+ap
+aq 安庆
+ar
+as 鞍山 安顺
+at
+au
+av
+aw
+ax 
+ay 安远 安阳
+az
+ba
+bb 蚌埠
+bc 白城
+bd 保定
+be
+bf
+bg
+bh 北海
+bi
+bj 北京 毕节 宝鸡
+bk
+bl
+bm
+bn
+bo
+bp
+bq
+br
+bs 白山 保山
+bt
+bu
+bv
+bw
+bx 本溪
+by
+bz 并州 滨州 巴中
+ca
+cb
+cc 长春
+cd 成都 承德 常德
+ce
+cf
+cg
+ch 巢湖
+ci
+cj
+ck
+cl
+cm
+cn 中国
+co
+cp
+cq 重庆
+cr
+cs 长沙 常熟
+ct
+cu
+cv
+cw
+cx 楚雄
+cy 潮阳 朝阳
+cz 滁州 处州 楚州 池州 潮州 沧州 郴州 常州 长治
+da
+db
+dc 达川 东川
+dd 丹东
+de
+df
+dg 东莞
+dh 敦煌 德洪
+di
+dj
+dk
+dl 大连 大理
+dm
+dn
+do
+dp
+dq 大庆 迪庆
+dr
+ds
+dt 大同
+du
+dv
+dw
+dx 定西
+dy 德阳 东营 东阳
+dz 德州
+ea
+eb
+ec
+ed
+ee
+ef
+eg
+eh
+ei
+ej
+ek
+el
+em
+en
+eo
+ep
+eq
+er
+es 恩施
+et
+eu
+ev
+ew
+ex
+ey
+ez 鄂州
+fa 富安 福安
+fb
+fc 防城
+fd
+fe
+ff
+fg
+fh
+fi
+fj 福建
+fk
+fl
+fm
+fn
+fo
+fp
+fq
+fr
+fs 佛山 抚顺
+ft
+fu
+fv
+fw
+fx 阜新
+fy 阜阳 富阳 建阳
+fz 福州 抚州
+ga 高安 广安
+gb
+gc
+gd 广东
+ge
+gf
+gg
+gh
+gi
+gj
+gk
+gl 桂林
+gm
+gn
+go
+gp
+gq
+gr
+gs 
+gt
+gu
+gv
+gw
+gx 广西
+gy 贵阳 广元
+gz 广州 赣州 贵州 甘孜
+ha 淮安 怀安
+hb 河北 淮北 鹤壁
+hc 河池 珲春
+hd 湖北 邯郸 
+he
+hf 合肥
+hg 鹤岗 黄冈
+hh 黑河 怀化
+hi
+hj
+hk
+hl
+hm 海门
+hn 海南 湖南 河南 淮南
+ho
+hp
+hq 环球
+hr
+hs 黄山 衡水 黄石
+ht
+hu
+hv
+hw
+hx
+hy 衡阳
+hz 杭州 毫州 惠州 徽州 菏泽 汉中 湖州
+ia
+ib
+ic
+id
+ie
+if
+ig
+ih
+ii
+ij
+ik
+il
+im
+in
+io
+ip
+iq
+ir
+is
+it
+iu
+iv
+iw
+ix
+iy
+iz
+ja 吉安
+jb
+jc 金昌 晋城
+jd
+je
+jf
+jg
+jh 金华
+ji
+jj 晋江 九江
+jk
+jl 吉林
+jm 江门 荆门
+jn 济南 济宁 集宁
+jo
+jp
+jq 酒泉
+jr
+js 江苏
+jt
+ju
+jv
+jw
+jx 江西 鸡西 锦西 嘉兴
+jy 揭阳 济源 江阴
+jz 焦作 锦州 金州 荆州 晋中
+ka
+kb
+kc
+kd
+ke
+kf 开封
+kg
+kh
+ki
+kj
+kk
+kl
+km 昆明
+kn
+ko
+kp
+kq
+kr
+ks 昆山
+kt
+ku
+kv
+kw
+kx
+ky
+kz
+la 六安
+lb
+lc 聊城 临沧
+ld 娄底
+le
+lf 廊坊 临汾
+lg
+lh 漯河
+li
+lj 丽江
+lk
+ll 零陵 吕梁
+lm
+ln 陇南 龙南 辽宁
+lo
+lp
+lq
+lr
+ls 丽水 庐山 凉山 乐山
+lt
+lu
+lv
+lw 莱芜
+lx 
+ly 龙岩 洛阳 辽阳
+lz 兰州 柳州  泸州
+ma
+mb
+mc
+md
+me
+mf
+mg
+mh
+mi
+mj
+mk
+ml
+mm 茂名
+mn
+mo
+mp
+mq
+mr
+ms 眉山
+mt
+mu
+mv
+mw
+mx
+my 绵阳
+mz 湄洲 梅州 眉州 孟州
+na 南安
+nb 宁波
+nc 南昌 南充
+nd 宁德
+ne
+nf
+ng
+nh 南海
+ni
+nj 南京 内江 怒江
+nk
+nl
+nm
+nn 南宁
+no
+np 南平
+nq
+nr
+ns
+nt 南通
+nu
+nv
+nw
+nx
+ny 南阳
+nz 
+oa
+ob
+oc
+od
+oe
+of
+og
+oh
+oi
+oj
+ok
+ol
+om
+on
+oo
+op
+oq
+or
+os
+ot
+ou
+ov
+ow
+ox
+oy
+oz
+pa
+pb
+pc
+pd 平度
+pe
+pf
+pg
+ph
+pi
+pj 盘锦
+pk
+pl 平凉 蓬莱
+pm
+pn
+po
+pp
+pq 
+pr
+ps
+pt 莆田
+pu
+pv
+pw
+px 萍乡
+py 濮阳
+pz
+qa
+qb
+qc
+qd 青岛
+qe
+qf
+qg
+qh
+qi
+qj 曲靖
+qk
+ql
+qm
+qn 黔南
+qo
+qp
+qq
+qr
+qs
+qt
+qu
+qv
+qw
+qx
+qy 庆阳 青阳 清远 清源 庆元
+qz 泉州 全州 衢州
+ra 瑞安
+rb
+rc
+rd
+re
+rf
+rg
+rh
+ri
+rj
+rk
+rl
+rm
+rn
+ro
+rp
+rq
+rr
+rs
+rt
+ru
+rv
+rw
+rx
+ry
+rz 日照
+sa
+sb
+sc 四川
+sd 山东 顺德
+se
+sf
+sg 韶关
+sh 上海 绥化
+si
+sj
+sk
+sl 商洛
+sm 三明 思茅
+sn 遂宁
+so
+sp 四平
+sq 商丘
+sr 上饶
+ss 石狮
+st 汕头
+su
+sv
+sw 汕尾
+sx 山西 绍兴
+sy 沈阳 十堰 邵阳 松源
+sz 苏州 宿州 肃州 深圳 随州 朔州
+ta 泰安
+tb
+tc 太仓 铜川
+td
+te
+tf
+tg
+th 通化
+ti
+tj 天津 田江
+tk
+tl 铜陵 铁岭
+tm
+tn
+to
+tp
+tq
+tr 铜仁
+ts 唐山 天水
+tt
+tu
+tv
+tw
+tx
+ty 太原
+tz 台州 泰州
+ua
+ub
+uc
+ud
+ue
+uf
+ug
+uh
+ui
+uj
+uk
+ul
+um
+un
+uo
+up
+uq
+ur
+us
+ut
+uu
+uv
+uw
+ux
+uy
+uz
+va
+vb
+vc
+vd
+ve
+vf
+vg
+vh
+vi
+vj
+vk
+vl
+vm
+vn
+vo
+vp
+vq
+vr
+vs
+vt
+vu
+vv
+vw
+vx
+vy
+vz
+wa
+wb
+wc
+wd
+we
+wf 潍坊
+wg
+wh 武汉 芜湖 威海
+wi
+wj
+wk
+wl
+wm
+wn 渭南
+wo
+wp
+wq
+wr
+ws 文山
+wt
+wu
+wv
+ww 武威
+wx 无锡 武穴
+wy
+wz 温州 梧州
+xa 西安
+xb 西北
+xc 宣城 许昌
+xd
+xe
+xf 襄樊
+xg 孝感
+xh 新华
+xi
+xj 新疆
+xk
+xl
+xm 厦门
+xn 西宁 咸宁
+xo
+xp
+xq
+xr
+xs
+xt 邢台 仙桃 湘潭
+xu
+xv
+xw
+xx 新乡 湘西
+xy 信阳 新余 咸阳
+xz 西藏 徐州 忻州
+ya 雅安 延安
+yb 延边 宜宾
+yc 伊春 宜昌 盐城 宜春 运城
+yd 亚东
+ye
+yf 云浮
+yg
+yh
+yi
+yj 阳江
+yk 营口 永康
+yl 玉林 夷陵 榆林
+ym
+yn 云南
+yo
+yp
+yq 阳泉
+yr
+ys
+yt 鹰潭 烟台
+yu
+yv
+yw 义乌
+yx 玉溪
+yy 益阳 弋阳 宜阳 岳阳 余姚
+yz 亚洲 兖州 永州
+za
+zb 淄博
+zc
+zd
+ze
+zf
+zg 中国 自贡
+zh 中华 珠海
+zi
+zj 浙江 湛江 镇江
+zk 周口
+zl
+zm
+zn 中南
+zo
+zp
+zq 肇庆
+zr
+zs 中山 
+zt 昭通
+zu
+zv
+zw
+zx
+zy 张掖 遵义 资阳
+zz 真州 郑州 漳州 株洲

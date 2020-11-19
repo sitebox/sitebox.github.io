@@ -1,0 +1,64 @@
+如何判断一个com域名的质量，小小谈
+俺认识域名也有一段时间了，从前辈那里学到一些，
+俺时间很充裕，现在花时间概括下这个主题（如何判断一个com域名的质量，小小谈），
+能想到的法子俺就说一下，所以只能算片面之谈，不是全面的啊。
+类似的文章，相信大家也看过，但是也有不同之处啊。
+http://www.domain.cn/club/viewthread.php?tid=596566
+
+1）选一个固定的地方查询域名其他后缀被注册情况如何。
+
+最好要固定，这样能培养自己的感觉和大体对比情况。
+俺用的是namecheap.com
+http://www.namecheap.com/domain-name-search.asp?type=simple
+然后“Search all available TLDs”打钩
+这个网页现在能查询22个TLD。
+可以测试下nihao这个域名前缀的，发现只有一个后缀没被注册啊。
+nihao.org.uk AVAILABLE 
+还可以再测试下wohao，daogou，gouwu进行对比。
+
+网页中，跟cn有关的域名TLD有四个，cn、 com.cn、 org.cn、 net.cn
+这个能用来判断这个域名在国内的指标，如果四个都被注册，说明这个域名在国内还说得过去。
+
+
+2）百度网页数 google网页数
+因为两个搜索引擎的网页数往往相差很大，所以要注意对比方式。
+
+假设一个关键字为“天津”要跟“北京”对比，那么结果如下
+http://www.baidu.com/s?wd=%CC%EC%BD%F2  找到相关网页约70,600,000篇
+http://www.baidu.com/s?cl=3&wd=%B1%B1%BE%A9  找到相关网页约207,000,000篇
+以管窥豹，也可以发现两个城市的差距。
+
+对于某些词组，搜索的时候最好加上双引号，如
+http://www.baidu.com/s?cl=3&wd=%22%D3%F2%C3%FB%D0%D0%D2%B5%22
+http://www.baidu.com/s?cl=3&wd=%D3%F2%C3%FB%D0%D0%D2%B5
+两个结果数相差很远的。
+
+还有个是“百度指数”和“google趋势”可以适当用下。
+http://index.baidu.com/
+http://www.google.cn/trends
+
+
+3）很多拼音域名在国外语言里说不定有较为常用的含义
+
+这一点可以通过在google网页里搜索来判断。
+
+如这个网页：（未免去广告嫌疑，不写出域名）
+http://www.google.com/search?hl=en&q=tanzi&aq=f&oq=
+Results 1 - 10 of about 2,360,000 for tanzi.
+说明这个域名不单单是个拼音，在国外也是有点的。
+
+
+4）查看域名的注册时间
+
+注册时间久，说明域名质量可能相对高。但是不少垃圾米的注册时间也很久远。所以要结合实际情况判断。
+注册时间较新，不是说域名就肯定不行了。因为过期域名掉下来，注册时间就变成新的啊。很多大米都是这样。
+查询域名历史或者建站历史，可以到这个网站。
+http://www.archive.org/index.php  “take me back”按钮
+比如：http://web.archive.org/web/*/http://domain.cn
+
+
+5）还可以留意你手上的域名是否跟哪个大网站有相似之处。
+有的话，身价又可以上去点了。
+
+
+只想到这些，先写到这里啊。

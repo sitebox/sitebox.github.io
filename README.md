@@ -1,2 +1,2 @@
-# sitebox.github.io
-个人主页
+# domainscan
+扫米结果收藏,省的老是删除,以后扫完米的数据都放在这里.

@@ -1,0 +1,7 @@
+CN域名 删除的域名名单: 　　　　　　
+今天删除域名名单:http://www.cnnic.cn/download/registar_list/1todayDel.txt
+明天拟删除域名名单:http://www.cnnic.cn/download/registar_list/future1todayDel.txt
+后天拟删除域名名单:http://www.cnnic.cn/download/registar_list/future2todayDel.txt
+
+
+国外域名删除列表:http://www.juming.com/delete_down.htm

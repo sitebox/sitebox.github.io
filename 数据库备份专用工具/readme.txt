@@ -1,0 +1,1 @@
+原文地址 吕滔博客：http://www.lvtao.net/tool/mysql_one_file_bak.html

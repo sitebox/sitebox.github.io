@@ -1,0 +1,8 @@
+http://jingyan.baidu.com/article/656db918e19812e381249cfe.html
+
+@echo off
+
+ren *.txt *.csv
+
+echo @@@@@@@@@@@@@合并成功!@@@@@@@@@@@@@'
+pause
